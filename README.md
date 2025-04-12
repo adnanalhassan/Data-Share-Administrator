@@ -1,12 +1,12 @@
 # Data Share Administrator
 
-This project simulates a data preparation pipeline for AI-based assessment systems. It demonstrates key data management tasks such as retrieval, merging, cleaning, and anonymization — based on the responsibilities of the AQA Data Share Administrator – AI Programme role.
+This project simulates a data preparation pipeline for AI-based assessment systems. It demonstrates key data management tasks such as retrieval, merging, cleaning, and anonymisation — based on the responsibilities of the AQA Data Share Administrator role.
 
 ## Features
 
 - Merges student metadata with exam scores
 - Cleans missing or invalid data
-- Anonymizes personally identifiable information
+- Anonymises personally identifiable information
 - Exports a clean, ready-for-AI dataset
 
 ## Tech Stack
