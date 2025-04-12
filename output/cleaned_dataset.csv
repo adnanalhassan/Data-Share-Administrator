@@ -1,0 +1,48 @@
+student_id,exam_score,submission_date,student_name,school,year_group
+S0001,81.8,2024-06-23,ANON,Jenkins-Ortiz,Year 10
+S0002,81.9,2025-03-13,ANON,Nelson-Miller,Year 12
+S0003,61.4,2025-03-11,ANON,"Delgado, Yang and Padilla",Year 11
+S0004,75.1,2024-07-10,ANON,Newman LLC,Year 10
+S0005,39.1,2024-04-29,ANON,Rodriguez-Mcclain,Year 10
+S0006,69.5,2024-08-18,ANON,"Flores, Garcia and Hunt",Year 11
+S0007,46.1,2024-06-17,ANON,Jensen PLC,Year 10
+S0008,69.2,2024-05-29,ANON,Ross PLC,Year 11
+S0009,48.2,2025-02-14,ANON,"Mcclure, Brooks and Frederick",Year 10
+S0010,73.4,2024-04-27,ANON,"Willis, Ellis and Mckinney",Year 12
+S0011,66.7,2025-02-09,ANON,Gordon-Jones,Year 10
+S0012,99.2,2025-01-04,ANON,Nash-Williams,Year 10
+S0013,81.3,2024-09-03,ANON,Clark-Brown,Year 10
+S0014,71.3,2024-04-20,ANON,Chavez Inc,Year 11
+S0015,58.7,2024-09-22,ANON,"Reynolds, Christensen and Gray",Year 11
+S0016,69.9,2025-02-03,ANON,"Rogers, Taylor and Saunders",Year 10
+S0017,48.7,2024-05-20,ANON,Diaz-Black,Year 12
+S0018,53.8,2024-05-28,ANON,Mcdonald LLC,Year 11
+S0019,95.0,2025-01-23,ANON,"Horton, Martinez and Hill",Year 11
+S0020,50.8,2024-07-24,ANON,"Adams, Turner and Weiss",Year 10
+S0021,64.2,2024-08-10,ANON,Lee LLC,Year 12
+S0022,60.5,2024-12-07,ANON,Nguyen and Sons,Year 12
+S0023,83.1,2024-08-19,ANON,Wise-Lee,Year 12
+S0024,68.7,2024-08-07,ANON,"Miller, Spence and Bryant",Year 12
+S0025,81.0,2024-12-02,ANON,Holden-Good,Year 11
+S0026,73.6,2024-10-11,ANON,Bryant Inc,Year 10
+S0027,67.2,2025-03-11,ANON,Price-Brown,Year 12
+S0028,68.6,2025-02-22,ANON,King-Miller,Year 11
+S0029,65.3,2024-08-04,ANON,"Lee, Sanders and Schmidt",Year 11
+S0030,65.0,2025-03-23,ANON,"Wood, Marquez and Stevens",Year 11
+S0031,59.9,2024-11-26,ANON,Wagner PLC,Year 11
+S0032,67.0,2024-04-28,ANON,Harris and Sons,Year 11
+S0033,48.6,2024-07-01,ANON,Murray-Myers,Year 12
+S0034,76.4,2025-01-07,ANON,Hunt-Williams,Year 10
+S0035,68.5,2024-04-18,ANON,Jones-Howard,Year 11
+S0036,76.5,2024-09-06,ANON,Moody-Horton,Year 11
+S0037,77.4,2024-05-18,ANON,"Oliver, Bailey and Johnson",Year 10
+S0039,53.2,2024-07-15,ANON,Morse LLC,Year 10
+S0041,63.8,2025-02-08,ANON,English PLC,Year 10
+S0042,73.9,2024-11-20,ANON,"Roberts, Wang and Small",Year 12
+S0043,67.9,2024-06-13,ANON,Hill Inc,Year 10
+S0044,53.6,2025-01-01,ANON,"Fisher, Cohen and Juarez",Year 12
+S0045,41.2,2025-03-18,ANON,"Contreras, Robinson and Haas",Year 12
+S0046,73.7,2025-03-17,ANON,"May, Jones and Wilson",Year 10
+S0047,75.6,2024-05-27,ANON,"Stevenson, Brown and Thornton",Year 12
+S0049,69.8,2024-10-11,ANON,"Stout, Bell and Hamilton",Year 12
+S0050,62.9,2024-06-30,ANON,"Patterson, Anderson and Johnson",Year 12
