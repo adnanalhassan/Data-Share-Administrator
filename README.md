@@ -57,5 +57,5 @@ This project demonstrates:
 - Data cleaning and quality assurance (handling nulls, validating score ranges)
 - Anonymisation of sensitive student data to comply with GDPR
 - Output of clean, structured datasets ready for use in AI systems
-- 
+  
 This end-to-end example showcases my readiness to support organisations with real-life data operations and a strong focus on privacy, quality, and structure.
